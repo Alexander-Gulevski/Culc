@@ -1,2 +1,2 @@
 # Culc
-Look at my project:  https://alexander-gulevski.github.io/Culc/
+Look at [Calculator](https://alexander-gulevski.github.io/Culc/)
